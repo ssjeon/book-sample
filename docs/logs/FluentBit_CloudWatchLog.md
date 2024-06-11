@@ -1,4 +1,4 @@
-# Fluent Bit을 데몬셋으로 설정하여 CloudWatch Log fh로 전송
+# Fluent Bit을 데몬셋으로 설정하여 CloudWatch Log로 전송
 
 ### Fluent Bit 설정
 1. amazon-cloudwatch라는 네임스페이스가 아직 없는 경우 다음 명령을 입력하여 네임스페이스를 생성
